@@ -1,0 +1,12 @@
+{
+    "name": "wallethub-node-tests",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "fastify": "^4.27.0",
+        "fs-extra": "^11.2.0",
+        "sanitize-html": "^2.13.0"
+    }
+}
